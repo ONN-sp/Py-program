@@ -1,1 +1,1 @@
-# Programs of learning python
+# Small projects while learning python
